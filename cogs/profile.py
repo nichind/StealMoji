@@ -10,7 +10,7 @@ from utils.utilites import _GetText as _
 from utils.utilites import *
 
 class Profile(commands.Cog):
-    '''Interact with Danbooru bot Profiles.'''
+    ''''''
     def __init__(self, client):
         self.client = client
 
