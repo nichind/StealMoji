@@ -1,0 +1,61 @@
+{
+  "new-guild-header-RU": "",
+
+  "loading-RU": "⏳ Загрузка...",
+  "loading-EN": "⏳ Loading...",
+
+  "invite-button-RU": "Инвайт",
+  "invite-button-EN": "Invite",
+
+  "support-button-RU": "Саппорт сервер",
+  "support-button-EN": "Support Server",
+
+  "my-invite-RU": "Мой инвайт: {invite}\nСаппорт сервер: {support}",
+  "my-invite-EN": "My invite: {invite}\nSupport server: {support}",
+
+  "changed-lang-to-RU-RU": "Вы успешно выбрали **Русский** язык.",
+  "changed-lang-to-EN-EN": "You have successfully chosen the **English** language.",
+
+  "no-permission-button-RU": "У вас нет прав для нажатия этой кнопки.",
+  "no-permission-button-EN": "You don't have permission to press this button.",
+
+  "success-added-emoji-RU": "<@{id}> добавил эмодзи {emoji}!",
+  "success-added-emoji-EN": "<@{id}> added {emoji} emoji!",
+
+  "success-removed-emoji-RU": "<@{id}> удалил эмодзи {emoji}!",
+  "success-removed-emoji-EN": "<@{id}> removed {emoji} emoji!",
+
+  "emoji-not-custom-RU": "Это не кастомный эмодзи, вы не можете его менять.",
+  "emoji-not-custom-EN": "It's not a custom emoji, you can't manage it.",
+
+  "emoji-from-other-server-RU": "Этот эмодзи с другого сервера, вы не можете его удалить.",
+  "emoji-from-other-server-EN": "This emoji is from another server, you can't delete it.",
+
+  "emoji-from-this-server-RU": "Этот эмодзи с этого сервера!",
+  "emoji-from-this-server-EN": "This emoji is from this server!",
+
+  "no-emoji-slots-RU": "Не осталось слотов для эмодзи. Получите новый уровень бустов или удалите старые эмодзи.",
+  "no-emoji-slots-EN": "No emoji slots left. Get a new level of boosts or remove old emojis.",
+
+  "no-perm-to-add-emoji-RU": "У меня нет прав для управления эмодзи на этом сервере!",
+  "no-perm-to-add-emoji-EN": "I don't have permission to manage emoji on this server!",
+
+  "fail-download-RU": "Не получилось скачать эмодзи, попробуйте ещё.",
+  "fail-download-EN": "Failed to download emoji, try again.",
+
+  "error-not-emoji-RU": "Это не эмодзи!",
+  "error-not-emoji-EN": "This is not an emoji!",
+
+  "error-command-not-found-RU": "Команда не найдена...",
+  "error-command-not-found-EN": "That command wasn't found...",
+  "error-no-permission-RU": "У вас недостаточно прав для выполнения этой команды!",
+  "error-no-permission-EN": "You don't have the permissions to do that!",
+  "error-bot-no-perms-RU": "У меня недостаточно прав для выполнения этой команды",
+  "error-bot-no-perms-EN": "I don't have the permissions to do that!",
+  "error-user-not-found-RU": "Пользователь не найден, укажите действительного пользователя!",
+  "error-user-not-found-EN": "Member not found, Please mention a valid user!",
+  "error-command-on-cooldown-RU": "Подождите **{}** секунд, прежде чем вы сможете выполнить эту команду снова!",
+  "error-command-on-cooldown-EN": "Wait **{}** seconds until you can run this command again!",
+  "error-unknown-RU": "Произошла неизвестная ошибка...\n{}",
+  "error-unknown-EN": "An unknown error occurred..\n{}"
+}
